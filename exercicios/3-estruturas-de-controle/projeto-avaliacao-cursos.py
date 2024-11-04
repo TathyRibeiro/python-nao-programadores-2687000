@@ -39,3 +39,6 @@ else:
 
 # 6. Armazene essa nota no dicionário, sendo a chave o título do curso e o valor a nota
 print(nota)
+
+
+
